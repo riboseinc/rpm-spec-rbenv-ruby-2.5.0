@@ -1,3 +1,0 @@
-[submodule "common"]
-	path = common
-	url = ssh://git@github.com/riboseinc/rpm-specs.git
